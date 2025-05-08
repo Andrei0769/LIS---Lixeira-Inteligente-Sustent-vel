@@ -49,5 +49,5 @@ Criamos a **LIS (Lixeira Inteligente Sustentável)**, um sistema de coleta autom
 - ✅ Facilidade na coleta seletiva automatizada.
 - ✅ Conscientização ambiental em áreas urbanas.
 
-## 🖍️ Formato Visual (Site)
-
+## 🖍️ Formato Visual 
+## (Site)
